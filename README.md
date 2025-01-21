@@ -2,8 +2,8 @@
 
 ## List of Programs
 
-1.	C "Hello, World!" Program
-2.	C Program to Print an Integer (Entered by the User)
+1.	C "Hello, World!" Program -> [Open Code](https://github.com/ManitVig/dtu-co102-lab/tree/main/helloworld)
+2.	C Program to Print an Integer (Entered by the User) -> [Open Code](https://github.com/ManitVig/dtu-co102-lab/tree/main/print_int)
 3.	C Program to Add Two Integers
 4.	C Program to Multiply Two Floating-Point Numbers
 5.	C Program to Find ASCII Value of a Character
